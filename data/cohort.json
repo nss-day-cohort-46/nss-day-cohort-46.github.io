@@ -8,11 +8,11 @@
             "bio": "<p>NSS is amazing , btw my bio isnt finished</p>",
             "github": "https://github.com/Ccourter11",
             "linkedIn": "https://www.linkedin.com/in/calvin-courter/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "Courtercalvin@gmail.com",
             "proImg": "IMG_0210 - Calvin Courter.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "IMG_0210 - Calvin Courter.jpg",
+            "resume": "resume2 (2) - Calvin Courter.pdf"
         },
         {
             "id": 2,
@@ -25,8 +25,8 @@
             "portfolio": "https://alex-prieu.netlify.app/",
             "email": "daprieu@gmail.com",
             "proImg": "Alex_Prieu_professional - Daniel Prieu.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "Alex_Prieu_Pokemon - Daniel Prieu.png",
+            "resume": "Alex_Prieu - Daniel Prieu.pdf"
         },
         {
             "id": 3,
@@ -39,8 +39,8 @@
             "portfolio": "http://ericathompsonsmiles.com/",
             "email": "ericathompsonsmiles@gmail.com",
             "proImg": "IMG_0251 2 - The Smiling Minimalist.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "pokemon card app - The Smiling Minimalist.jpeg",
+            "resume": "Erica Thompson V3 - The Smiling Minimalist.pdf"
         },
         {
             "id": 4,
@@ -53,8 +53,8 @@
             "portfolio": "https://morriscodez.github.io/personal-site/",
             "email": "dylanrobertmorris@gmail.com",
             "proImg": "Dylan Morris - Dylan Morris Official.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "pokedylan - Dylan Morris Official.jpeg",
+            "resume": "Resume_DylanMorris - Dylan Morris Official.pdf"
         },
         {
             "id": 5,
@@ -67,8 +67,8 @@
             "portfolio": "https://cheor.github.io/portfolio",
             "email": "cheo.roman@gmail.com",
             "proImg": "Cheo_Roman - Cheo Roman.png",
-            "funImg": "",
-            "resume": ""
+            "funImg": "pokecheo - Cheo Roman.jpg",
+            "resume": "Cheo Roman 1 - Cheo Roman.pdf"
         },
         {
             "id": 6,
@@ -81,8 +81,8 @@
             "portfolio": "https://logan-webb-portfolio.netlify.app/",
             "email": "loganwebb1994@gmail.com",
             "proImg": "Selfie - Logan Webb.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "pokemon - Logan Webb.jpg",
+            "resume": "Logan-Webb-2 (2) - Logan Webb.pdf"
         },
         {
             "id": 7,
@@ -95,8 +95,8 @@
             "portfolio": "https://ericberringer.netlify.app/",
             "email": "eric.berringer@gmail.com",
             "proImg": "EricPic - Eric Berringer.jpeg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "EricBerringerPokemonCard - Eric Berringer.jpeg",
+            "resume": "Eric Berringer Resume - Eric Berringer.pdf"
         },
         {
             "id": 8,
@@ -109,8 +109,8 @@
             "portfolio": "https://kylieanyce.github.io/personal-site/",
             "email": "kylieanyce@gmail.com",
             "proImg": "THE ONE (1) (1) - Kylie Anyce Bearden.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "web1621343706 - Kylie Anyce Bearden.jpg",
+            "resume": "Technical Resume (2) - Kylie Anyce Bearden.pdf"
         },
         {
             "id": 9,
@@ -120,11 +120,11 @@
             "bio": "<p>After working almost every job in the restaurant I decided to pursue a career in software development. My skills problem solving, and adapting on the fly in a high paced team environment have helped guide my decision to enter the programming world.</p>",
             "github": "https://github.com/jakefroeb",
             "linkedIn": "https://www.linkedin.com/in/jake-froeb-8847769b/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "jake.herman.froeb@gmail.com",
             "proImg": "T03F2SDTJ-U01EYTS10KD-4db12edfc63c-512 - jake froeb.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "pokemonjake - jake froeb.jpeg",
+            "resume": "JakeResumeV2 (1) - jake froeb.pdf"
         },
         {
             "id": 10,
@@ -137,8 +137,8 @@
             "portfolio": "https://phillipphan.netlify.app/",
             "email": "itsphillipphan@gmail.com",
             "proImg": "headshot - Phillip Phan.JPG",
-            "funImg": "",
-            "resume": ""
+            "funImg": "headshot - Phillip Phan.JPG",
+            "resume": "Phillip Phan Resume - Phillip Phan.pdf"
         },
         {
             "id": 11,
@@ -151,8 +151,8 @@
             "portfolio": "https://daniel-l-ross.github.io/dan-ross-portfolio/",
             "email": "daniellross@gmail.com",
             "proImg": "dan_ross_class_site - Dan Ross.jpeg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "Dan_Ross_pokemon - Dan Ross.jpeg",
+            "resume": "Dan_Ross_Resume - Dan Ross.pdf"
         },
         {
             "id": 12,
@@ -165,8 +165,8 @@
             "portfolio": "https://sllittrell.github.io/",
             "email": "stacey.littrell@gmail.com",
             "proImg": "StaceyPhoto - stacey littrell.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "PokemonCard - stacey littrell.jpg",
+            "resume": "Stacey Littrell Resume - stacey littrell.pdf"
         },
         {
             "id": 13,
@@ -179,8 +179,8 @@
             "portfolio": "https://kaitlinjkelley.github.io/kaitlin-kelley/",
             "email": "kaitlinjkelley@gmail.com",
             "proImg": "160A179D-2E1D-48F8-B505-E9916B79AD95 - Kaitlin Kelley.jpeg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "Pokemon Card - Kaitlin Kelley.jpg",
+            "resume": "KaitlinKelley2 - Kaitlin Kelley.pdf"
         },
         {
             "id": 14,
@@ -193,8 +193,8 @@
             "portfolio": "https://www.ramartin.dev",
             "email": "raymond.alex.martin@gmail.com",
             "proImg": "Alex Martin copy - Alex Martin.jpeg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "alex - Alex Martin.jpg",
+            "resume": "resume v3 - Alex Martin.pdf"
         },
         {
             "id": 15,
@@ -204,11 +204,11 @@
             "bio": "<p>A world traveler, business manager, and software developer with an insatiable intellectual curiosity, passion for problem solving, as well as highly detail oriented. My goal is to utilize my diverse experiences in business as a software developer and continue to learn new ways in which software development can solve real world problems.</p>",
             "github": "https://github.com/nathanRomad",
             "linkedIn": "https://www.linkedin.com/in/nathan-andrew-hamilton/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "nathan.a.hamilton@gmail.com",
             "proImg": "nate_suit-2 - Nathan Hamilton.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "nate_pokemon - Nathan Hamilton.jpeg",
+            "resume": "Nate Hamilton 2021.v5 - Nathan Hamilton.pdf"
         },
         {
             "id": 16,
@@ -221,8 +221,8 @@
             "portfolio": "calebsjames.com",
             "email": "calebsjames@gmail.com",
             "proImg": "pic01 Caleb James - Caleb James.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "pic01 Caleb James - Caleb James.jpg",
+            "resume": "Caleb James Resume - Caleb James.pdf"
         },
         {
             "id": 17,
@@ -235,8 +235,8 @@
             "portfolio": "https://blusanders.github.io/",
             "email": "blusanders@gmail.com",
             "proImg": "Blu Headshot 500kb - Blu Sanders.jpg",
-            "funImg": "",
-            "resume": ""
+            "funImg": "Miranda_NC-123 - Blu Sanders.jpeg",
+            "resume": "Blu Sanders Resume 512 699 4928 - Blu Sanders.pdf"
         },
         {
             "id": 18,
@@ -246,11 +246,11 @@
             "bio": "<p>With an educational background in English, language, and writing, upon moving to Nashville, I began working in customer experience for e-commerce and tech companies. I developed an interest in the user experience surrounding technology—it allowed me to bolster my problem-solving and communication skills, and eventually, led me to coding. I took part in a 3-week jumpstart course at Nashville Software School to test the waters, and I immediately dove into the opportunity to enroll in their 6-month full-stack bootcamp. My career goal is to help build a product that makes a positive impact. I’m eager to learn, not afraid to ask questions, and I'm excited to find a role that enables me to constantly learn, grow, and creatively tackle problems. I've been on the search for a career I love, and I felt right at home in the world of software development.</p>",
             "github": "https://github.com/emilycentko",
             "linkedIn": "https://www.linkedin.com/in/emily-centko/",
-            "portfolio": "",
+            "portfolio": null,
             "email": "emily.centko@gmail.com",
             "proImg": "profpic - Emily Centko.png",
-            "funImg": "",
-            "resume": ""
+            "funImg": "pokemon card emily - Emily Centko.jpeg",
+            "resume": "Emily Centko Resume (no contact info) - Emily Centko.pdf"
         },
         {
             "id": 19,
@@ -259,12 +259,12 @@
             "reelThemIn": "<p>\"You can't steal second base and keep your foot on first\"</p>",
             "bio": "<p>Not What I Planned…Prior to beginning my journey in software development, I worked as a freelance creative and professional services consultant. During this time, I developed a love for web content and managing websites using content management systems. Oftentimes, I came into positions and the websites were old and outdated, so I was tasked with learning basic HTML and CSS skills as well as eventually moving websites to a newer platform. After 10 years of developing and maintaining websites using content management systems, I decided I wanted to know the \"\"how and why\"\" behind websites and applications. Software development will allow me to grow my knowledge as I continue to do something I have grown to love. Sidenote: My personal and professional mission has always been to help revitalize small businesses, non-profits, and associations by telling their stories to increase impact and finding ways to provide extraordinary services and solutions with limited resources, I hope to continue my mission in some way on my new journey!</p>",
             "github": "https://github.com/dtracydepp",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/tracydepp/",
             "portfolio": "http://devonnatracydepp.com",
             "email": "tracydepp82@gmail.com",
             "proImg": "D. Tracy Depp Prof Pic Small - Tracy Depp.PNG",
-            "funImg": "",
-            "resume": ""
+            "funImg": "T.Depp Pokemon Card - Tracy Depp.jpg",
+            "resume": "D. Tracy Depp Resume V3 - Tracy Depp.pdf"
         },
         {
             "id": 20,
@@ -273,12 +273,12 @@
             "reelThemIn": "<p>\"Tell me and I forget. Teach me and I remember. Involve me and I learn.\" -Benjamin Franklin</p>",
             "bio": "<p>I ventured into this field of web development, with a background in jazz vocal performance, classical piano performance, and as music teacher of many years. My interest in web development stemmed greatly from the need of building my own website for my music career (and never being satisfied with the “status quo” website templates); also, I saw a glaring gap in private music teachers and music organizations having a functional up to date website. Often times I would tell myself, “You should figure out how to do this…” but then scoff at the idea. When I finally succumbed to my intuition pulling me to this path, I started to dabble on my own with coding classes online and found myself very intrigued. From that moment, I decided to give coding my best effort by attending a coding bootcamp. That decision led me to NSS. Several friends and former colleagues of mine attended NSS and spoke highly of the program. I have gathered hands on knowledge and training in many different coding languages at NSS, such as: HTML, CSS, JavaScript, React, Python, SQL, and Django. I am excited to begin my career as a professional junior web developer and will be graduating from NSS on June 25th, 2021. I love to learn and am excited to continue this journey as a professional web developer.</p>",
             "github": "https://github.com/AndreaMays",
-            "linkedIn": "https://www.linkedin.com/in/tracydepp/",
-            "portfolio": "",
+            "linkedIn": "https://www.linkedin.com/in/drea-nichole/",
+            "portfolio": null,
             "email": "theallegromusicacademy70@gmail.com",
             "proImg": "Kimi Conro proof (2) - Andrea Nichole.png",
-            "funImg": "",
-            "resume": ""
+            "funImg": "Pokemon_NSS_Card - Andrea Nichole.jpg",
+            "resume": "Drea Nichole V3 - Andrea Nichole.pdf"
         },
         {
             "id": 21,
