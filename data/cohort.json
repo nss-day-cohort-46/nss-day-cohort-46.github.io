@@ -282,17 +282,17 @@
         },
         {
             "id": 21,
-            "firstName": "",
-            "lastName": "",
-            "reelThemIn": "<p></p>",
-            "bio": "<p></p>",
-            "github": "",
-            "linkedIn": "",
-            "portfolio": "",
-            "email": "",
-            "proImg": "",
-            "funImg": "",
-            "resume": ""
+            "firstName": "Harlin",
+            "lastName": "Sanchez",
+            "reelThemIn": "<p>\"Mere data makes a man. A and C and T and G. The alphabet of you. All from four symbols.\" -Niander Wallace, Blade Runner 2049</p>",
+            "bio": "<p>I've always been fascinated by technology. This fascination is what drove me to major in Computer Science at MTSU, and eventually took me to NSS. Always learning, always improving, always as passionate about it all as ever.</p>",
+            "github": "https://github.com/hrlnsnchz",
+            "linkedIn": "https://www.linkedin.com/in/harlin-sanchez/",
+            "portfolio": "harlinsanchez.com",
+            "email": "hrlnsnchz@gmail.com",
+            "proImg": "Selfie - Harlin Sanchez.JPG",
+            "funImg": "Pokemon_Card_NSS - Harlin Sanchez.jpg",
+            "resume": "Resume 3 - Harlin Sanchez.pdf"
         }
     ]
 }
