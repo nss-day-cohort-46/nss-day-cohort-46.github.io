@@ -1,4 +1,47 @@
-# Class Website Template Repo
+# Instructions on Making Changes
+
+To Create a Pull Request for the Class Website:
+
+Clone the repo into your workspace directory
+```
+cd ~/workspace
+git clone git@github.com:nss-day-cohort-46/nss-day-cohort-46.github.io.git
+```
+Create a new branch with your initials and the thing you are changing:
+Ex: If I am Nick A Carver and I am updating my personal information i would name my branch:
+```
+nac-updatingPersonalInformation
+```
+Make changes.
+Push to github.
+Create pull request
+
+<img src="./images/pullRequestInstructions/createPullRequest.png" alt="Original Github Setup" />
+
+<strong>UPDATE THE BRANCH YOU ARE TRYING TO MERGE TO</strong>
+
+Github defaults to this
+
+<img src="./images/pullRequestInstructions/OriginalBranchSetup.png" alt="Original Github Setup" />
+
+Change to this
+
+<img src="./images/pullRequestInstructions/UpdatedBranchSetup.png" alt="Original Github Setup" />
+
+Ensure your code follows these guidelines:
+
+[ ] If you have a blank field then type "null" <br>
+[ ] The site still loads without breaking<br>
+[ ] You are not affecting someone else's data
+
+Things C46 Still Needs to Do:
+
+[ ] Update our tech stack <br>
+[ ] Take a class photo <br>
+[ ] Update the eventbrite link
+
+
+# Original Instructions From Base Repo
 
 This is a simple template for NSS students to use to create their class website. Employers are looking for a simple website where they can easily see each students' quick summary and links to Github, LinkedIn, and website. Your class website should look nice and professional, but no need to get fancy. ;)
 
