@@ -127,6 +127,9 @@ main {
 .card-img-top{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    width: 239px;
+    height: 300px;
+    object-fit: cover;
   }
 
 .col,
