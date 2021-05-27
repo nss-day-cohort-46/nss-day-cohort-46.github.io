@@ -307,6 +307,20 @@
             "proImg": "NickCarverPro.jpg",
             "funImg": "PokeNick.jpg",
             "resume": "NickCarverResume.pdf"
+        },
+        {
+            "id": 23,
+            "firstName": "Brittney",
+            "lastName": "Potts",
+            "reelThemIn": "The {code} to my heart is coffee</p>",
+            "bio": "<p>Prior to beginning my journey in software development, I was a General Manager in the restaurant industry. Being the GM taught me skills such as the ability to work in a high stress environment, working in a team environment, and customer service. While I enjoyed my job, it was not my passion. After talking to a friend about what I did enjoy about my job, he pointed me in the direction of software development. Ever since I started on the road to becoming a software developer, I have found a passion for creating new apps, solving problems, and watching an app all come together! I love that it allows me to use my problem solving mind set, while also challenging me to keep learning. I am looking forward to continue growing my knowledge in the tech field!</p>",
+            "github": "https://github.com/bpotts11",
+            "linkedIn": "https://www.linkedin.com/in/brittney-potts/",
+            "portfolio": "https://bpotts11.github.io/brittneypotts/ ",
+            "email": "brittneympotts@gmail.com",
+            "proImg": "BrittP.JPG",
+            "funImg": "BrittneyPokemonCard.jpeg",
+            "resume": "BrittneyPotts.pdf"
         }
     ]
 }
