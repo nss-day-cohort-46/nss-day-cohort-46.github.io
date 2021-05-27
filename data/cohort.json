@@ -260,14 +260,14 @@
             "bio": "<p>With an educational background in English, language, and writing, upon moving to Nashville, I began working in customer experience for e-commerce and tech companies. I developed an interest in the user experience surrounding technology—it allowed me to bolster my problem-solving and communication skills, and eventually, led me to coding. I took part in a 3-week jumpstart course at Nashville Software School to test the waters, and I immediately dove into the opportunity to enroll in their 6-month full-stack bootcamp. My career goal is to help build a product that makes a positive impact. I’m eager to learn, not afraid to ask questions, and I'm excited to find a role that enables me to constantly learn, grow, and creatively tackle problems. I've been on the search for a career I love, and I felt right at home in the world of software development.</p>",
             "github": "https://github.com/emilycentko",
             "linkedIn": "https://www.linkedin.com/in/emily-centko/",
-            "portfolio": null,
+            "portfolio": "https://emilycentko.github.io/",
             "email": "emily.centko@gmail.com",
             "proImg": "profpic - Emily Centko.png",
             "funImg": "pokemon card emily - Emily Centko.jpeg",
             "resume": "Emily Centko Resume (no contact info) - Emily Centko.pdf"
         },
         {
-            "id": 20,
+            "id": 22,
             "firstName": "Nick",
             "lastName": "Carver",
             "reelThemIn": "<p>!false<br>(It’s funny because it’s true.)</p>",
@@ -321,6 +321,20 @@
             "proImg": "Selfie - Harlin Sanchez.JPG",
             "funImg": "Pokemon_Card_NSS - Harlin Sanchez.jpg",
             "resume": "Resume 3 - Harlin Sanchez.pdf"
+        },
+        {
+            "id": 24,
+            "firstName": "Brittney",
+            "lastName": "Potts",
+            "reelThemIn": "The {code} to my heart is coffee</p>",
+            "bio": "<p>Prior to beginning my journey in software development, I was a General Manager in the restaurant industry. Being the GM taught me skills such as the ability to work in a high stress environment, working in a team environment, and customer service. While I enjoyed my job, it was not my passion. After talking to a friend about what I did enjoy about my job, he pointed me in the direction of software development. Ever since I started on the road to becoming a software developer, I have found a passion for creating new apps, solving problems, and watching an app all come together! I love that it allows me to use my problem solving mind set, while also challenging me to keep learning. I am looking forward to continue growing my knowledge in the tech field!</p>",
+            "github": "https://github.com/bpotts11",
+            "linkedIn": "https://www.linkedin.com/in/brittney-potts/",
+            "portfolio": "https://bpotts11.github.io/brittneypotts/ ",
+            "email": "brittneympotts@gmail.com",
+            "proImg": "BrittP.JPG",
+            "funImg": "BrittneyPokemonCard.jpeg",
+            "resume": "BrittneyPotts.pdf"
         }
     ]
 }
