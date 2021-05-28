@@ -335,6 +335,20 @@
             "proImg": "BrittP.JPG",
             "funImg": "BrittneyPokemonCard.jpeg",
             "resume": "BrittneyPotts.pdf"
+        },
+        {
+            "id": 25,
+            "firstName": "Yasmeen",
+            "lastName": "Cole",
+            "reelThemIn": "“Tug on anything at all and you’ll find it connected to everything else in the universe.” –John Muir",
+            "bio": "",
+            "github": "https://github.com/yasmeencole",
+            "linkedIn": "https://www.linkedin.com/in/yasmeen-cole-04466366/",
+            "portfolio": "",
+            "email": "yasmeencole1@gmail",
+            "proImg": "",
+            "funImg": "",
+            "resume": "Yasmeen Resume 4.pdf"
         }
     ]
 }
