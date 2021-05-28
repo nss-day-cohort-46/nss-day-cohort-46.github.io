@@ -4,7 +4,7 @@ p {
 
 html, body {
     max-width: 100%;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     background: url("../images/background.jpg") fixed no-repeat;
     background-size: 100%;
     background-color: black;
@@ -219,7 +219,7 @@ button{
     } */
     .jumbotron.jumbotron-fluid img{
         background: white;
-        margin-top:30px;
+        /* margin-top:30px; */
        }
        .jumbotron.jumbotron-fluid.sm-width{
         width: 100%;
@@ -250,4 +250,18 @@ button{
         padding-right: none;
       }
 
+}
+
+.carousel-inner {
+    overflow: visible;
+}
+
+.carousel-item-left {
+    overflow: visible;
+    padding-top: 0.1px;
+}
+
+.carousel-item-next {
+    overflow: visible;
+    padding-top: 0.1px;
 }
