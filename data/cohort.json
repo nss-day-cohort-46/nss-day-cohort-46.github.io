@@ -377,6 +377,20 @@
             "proImg": "YasmeenCole.jpg",
             "funImg": "pokeYasmeen.png",
             "resume": "Yasmeen Resume 4.pdf"
+        },
+        {
+            "id": 28,
+            "firstName": "Samantha",
+            "lastName": "Campbell",
+            "reelThemIn": "There are only two hard problems in distributed systems:<br/>2. Exactly-once delivery<br/>1. Guaranteed order of messages<br/>2. Exactly once delivery",
+            "bio": "I got into coding after the first female software developer I met told me I could do it too. This is why diversity, visibility, and inclusion is so important. I am so grateful for the example she set for me, and I look forward to encouraging and guiding those that will come next.",
+            "github": "https://github.com/samj0516",
+            "linkedIn": "https://www.linkedin.com/in/samj0516/",
+            "portfolio": "samanthajo.dev",
+            "email": "samj0516@gmail.com",
+            "proImg": "sam_campbell_selfie.jpeg",
+            "funImg": "pokemoncard_sam.png",
+            "resume": "Samantha_Campbell_Resume.pdf"
         }
     ]
 }
