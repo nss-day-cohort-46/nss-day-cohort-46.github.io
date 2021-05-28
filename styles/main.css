@@ -4,10 +4,9 @@ p {
 
 html, body {
     max-width: 100%;
-    overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    /* overflow-x: hidden; */
+    background: url("../images/normal2.png") fixed no-repeat;
     background-size: 100%;
-    background-color: black;
 }
 
 blockquote{
@@ -33,13 +32,13 @@ blockquote{
 
 #cohort22{
     display: inline-block;
-    color: #238193;
+    color: rgb(231, 166, 24);
 }
 
 #jumbheader{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: #238193!important;
-    color: lightgray;
+    background-color: rgb(231, 166, 24)!important;
+    color: seashell;
 
 }
 .header-text{
@@ -89,9 +88,9 @@ main {
 }
 
 .col-md-3.cohortMems{
-    border: 1px solid lightgray;
+    border: 1px solid rgb(233, 224, 218);
     border-radius:10px;
-    box-shadow: 2px 2px 2px lightgray;
+    box-shadow: 2px 2px 2px rgb(212, 199, 190);
     margin: 10px;
     margin-bottom: 25px;
     background: white;
@@ -127,6 +126,8 @@ main {
 .card-img-top{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    height: 380px;
+    object-fit: cover;
   }
 
 .col,
@@ -148,7 +149,7 @@ main {
   }
 
   .contactIcons{
-      color: #238193;
+      color: rgb(231, 166, 24);
   }
   .contactIcons:hover{
       transform: scale(1.2);
@@ -156,7 +157,7 @@ main {
 
   .modal-header{
     background-color: lightgray!important;
-    color: #238193;
+    color: rgb(231, 166, 24);
   }
 
   .modal-body img{
@@ -173,7 +174,7 @@ main {
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #238193!important;
+    background-color:rgb(231, 166, 24)!important;
     color: white;
 }
 
@@ -182,20 +183,20 @@ main {
 }
 
 #demo-date a {
-    color: #238193!important;
+    color: rgb(231, 166, 24)!important;
 }
 
 button{
     cursor: pointer;
 }
 .btn-outline-primary{
-    color: #238193!important;
-    border-color: #238193!important;
+    color: rgb(231, 166, 24)!important;
+    border-color: rgb(231, 166, 24)!important;
 }
 
 .btn-outline-primary:hover{
     color: white!important;
-    background-color: #238193!important;
+    background-color: rgb(231, 166, 24)!important;
 }
 
 /* adjusts size of contact icons depending on size of card */
@@ -219,7 +220,7 @@ button{
     } */
     .jumbotron.jumbotron-fluid img{
         background: white;
-        margin-top:30px;
+        /* margin-top:30px; */
        }
        .jumbotron.jumbotron-fluid.sm-width{
         width: 100%;
@@ -250,4 +251,33 @@ button{
         padding-right: none;
       }
 
+}
+
+.carousel-inner {
+    overflow: visible;
+}
+
+.carousel-item-left {
+    overflow: visible;
+    padding-top: 0.1px;
+}
+
+.carousel-item-next {
+    overflow: visible;
+    padding-top: 0.1px;
+}
+
+.bio-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 236px;
+}
+
+.downloadResumeButton {
+    color: #0e606e;
+}
+
+.indent-text {
+    text-indent: 30px;
 }
