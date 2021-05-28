@@ -11,7 +11,7 @@
             "portfolio": null,
             "email": "Courtercalvin@gmail.com",
             "proImg": "IMG_0210 - Calvin Courter.jpg",
-            "funImg": "IMG_0210 - Calvin Courter.jpg",
+            "funImg": "PokemonCalvinCouter.jpg",
             "resume": "resume2 (2) - Calvin Courter.pdf"
         },
         {
@@ -165,7 +165,7 @@
             "portfolio": "http://www.calebsjames.com",
             "email": "calebsjames@gmail.com",
             "proImg": "pic01 Caleb James - Caleb James.jpg",
-            "funImg": "CalebFun.jpeg",
+            "funImg": "PokemonCalebJames.jpg",
             "resume": "Caleb James Resume - Caleb James.pdf"
         },
         {
@@ -235,7 +235,7 @@
             "portfolio": "https://phillipphan.netlify.app/",
             "email": "itsphillipphan@gmail.com",
             "proImg": "headshot - Phillip Phan.JPG",
-            "funImg": "headshot - Phillip Phan.JPG",
+            "funImg": "PokemonPhillipPhan.png",
             "resume": "Phillip Phan Resume - Phillip Phan.pdf"
         },
         {
@@ -249,7 +249,7 @@
             "portfolio": "https://blusanders.github.io/",
             "email": "blusanders@gmail.com",
             "proImg": "Blu Headshot 500kb - Blu Sanders.jpg",
-            "funImg": "Miranda_NC-123 - Blu Sanders.jpeg",
+            "funImg": "PokemonBluSanders.jpg",
             "resume": "Blu Sanders Resume 512 699 4928 - Blu Sanders.pdf"
         },
         {
@@ -341,7 +341,7 @@
             "firstName": "Trent",
             "lastName": "Sisson",
             "reelThemIn": "I’m an early bird and a night owl. So I’m wise and have worms.",
-            "bio": "My time at NSS has been extremely challanging and rewarding. Now that I have learned how to code I realise that coding is not just a job for me, it is a passion and hobby that I really enjoy. Fishing is another hobby that I am very passionate about. I love getting out in nature and enjoying the all the world has to offer.",
+            "bio": "My time at NSS has been extremely challenging and rewarding. Now that I have learned how to code I realize that coding is not just a job for me, it is a passion and hobby that I really enjoy. Fishing is another hobby that I am very passionate about. I love getting out in nature and enjoying the all the world has to offer.",
             "github": "https://github.com/TrentSisson",
             "linkedIn": "https://www.linkedin.com/in/trentsisson/",
             "portfolio": null,
@@ -349,6 +349,34 @@
             "proImg": "Trents prof pic.jpg",
             "funImg": "trentpokemon.jpg",
             "resume": "Trent's Resume V2.pdf"
+        },
+        {
+            "id": 26,
+            "firstName": "Nicole",
+            "lastName": "Tatum",
+            "reelThemIn": "Have you tried turning it off and on again?",
+            "bio": "Before I entered the world of Software Development I spent time dabbling in the arts and pursuing potential careers while working in the food/bev industry. I took a jumpstart course in 2019 and in 2020 I finally took the plunge and enrolled at NSS. My short time at NSS has helped me grow as an individual and student, and I am so excited to continue to grow and see where this path takes me.",
+            "github": "https://github.com/nicoletatum",
+            "linkedIn": "https://www.linkedin.com/in/nicole-tatum/",
+            "portfolio": null,
+            "email": "nicoletatum@outlook.com",
+            "proImg": "nicoletatum-pic.jpg",
+            "funImg": "nicole-pokemon.jpeg",
+            "resume": "Nicole-Tatum-Resume.pdf"
+        },
+        {
+            "id": 27,
+            "firstName": "Yasmeen",
+            "lastName": "Cole",
+            "reelThemIn": "“Tug on anything at all and you’ll find it connected to everything else in the universe.” –John Muir",
+            "bio": "",
+            "github": "https://github.com/yasmeencole",
+            "linkedIn": "https://www.linkedin.com/in/yasmeen-cole-04466366/",
+            "portfolio": null,
+            "email": "yasmeencole1@gmail",
+            "proImg": "YasmeenCole.jpg",
+            "funImg": "pokeYasmeen.png",
+            "resume": "Yasmeen Resume 4.pdf"
         }
     ]
 }
