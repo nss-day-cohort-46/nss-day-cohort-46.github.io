@@ -5,7 +5,7 @@ p {
 html, body {
     max-width: 100%;
     /* overflow-x: hidden; */
-    background: url("../images/normal2.png") fixed no-repeat;
+    background: url("../images/normal2.png") fixed;
     background-size: 100%;
 }
 
@@ -39,7 +39,7 @@ blockquote{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
     background-color: rgb(231, 166, 24)!important;
     color: seashell;
-
+    padding: 20px;
 }
 .header-text{
     margin: 0 auto;
@@ -59,15 +59,15 @@ blockquote{
     height: 50px;
 }
 
-
 .jumbotron.jumbotron-fluid{
     background: none;
-   }
+}
+
 .jumbotron.jumbotron-fluid img{
     background: none;
     width:100%;
     margin-top: -80px;
-   }
+}
 
 main {
     margin-bottom: 20px;
@@ -75,9 +75,9 @@ main {
     width: 100%;
     overflow-y: hidden;
     overflow-x: hidden;
-  }
+}
 
-.row{
+.row {
     justify-content: center;
 }
 
@@ -87,11 +87,12 @@ main {
     text-transform: uppercase;
 }
 
-.col-md-3.cohortMems{
+/* Card Styling */
+.col-md-3, .cohortMems{
     border: 1px solid rgb(233, 224, 218);
     border-radius:10px;
     box-shadow: 2px 2px 2px rgb(212, 199, 190);
-    margin: 10px;
+    margin: 15px;
     margin-bottom: 25px;
     background: white;
 }
@@ -102,17 +103,26 @@ main {
     box-shadow: none;
 }
 
-.technos, .words{
+.technos, .words {
     margin-top: -55px;
     background: white;
     padding:20px;
     border-radius: 20px;
 }
 
-.techs{
+.techs {
     width: 70px;
     margin: 20px 0px;
-  }
+}
+
+.aboutSection {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.about-cohort {
+    text-align: center;
+}
 
 .words{
     padding:50px;
@@ -156,8 +166,8 @@ main {
   }
 
   .modal-header{
-    background-color: lightgray!important;
-    color: rgb(231, 166, 24);
+    background-color: rgb(231, 166, 24)!important;
+    color: black;
   }
 
   .modal-body img{
@@ -275,7 +285,7 @@ button{
 }
 
 .downloadResumeButton {
-    color: #0e606e;
+    color: rgb(231, 166, 24);
 }
 
 .indent-text {
