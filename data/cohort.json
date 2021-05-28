@@ -321,6 +321,19 @@
             "proImg": "BrittP.JPG",
             "funImg": "BrittneyPokemonCard.jpeg",
             "resume": "BrittneyPotts.pdf"
+        },
+        {
+            "id": 24,
+            "firstName": "Nicole",
+            "lastName": "Tatum",
+            "reelThemIn": "Have you tried turning it off and on again?",
+            "bio": "<p>Before I entered the world of Software Development I spent time dabbling in the arts and pursuing potential careers while working in the food/bev industry. I took a jumpstart course in 2019 and in 2020 I finally took the plunge and enrolled at NSS. My short time at NSS has helped me grow as an individual and student, and I am so excited to continue to grow and see where this path takes me. </p>",
+            "github": "https://github.com/nicoletatum",
+            "linkedIn": "https://www.linkedin.com/in/nicole-tatum/",
+            "email": "nicoletatum@outlook.com",
+            "proImg": "nicoletatum-pic.jpg",
+            "funImg": "nicole-pokemon.jpeg",
+            "resume": "Nicole-Tatum-Resume.pdf"
         }
     ]
 }
