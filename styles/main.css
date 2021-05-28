@@ -5,7 +5,7 @@ p {
 html, body {
     max-width: 100%;
     /* overflow-x: hidden; */
-    background: url("../images/normal2.png") fixed no-repeat;
+    background: url("../images/normal2.png") fixed;
     background-size: 100%;
 }
 
