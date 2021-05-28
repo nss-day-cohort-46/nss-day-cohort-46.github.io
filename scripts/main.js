@@ -17,51 +17,55 @@ function cohortMembers(list) {
     let studentContact = `<div class="studentContact">`
     //if student doesn't have a portfolio site then don't display the icon
     if (item.portfolio != null) {
-
       studentContact += `<a href=${item.portfolio} target="_blank">
       <i class="fas fa-globe fa-2x contactIcons"></i>
       </a>`
     }
     //if student doesn't have a github site then don't display the icon
     if (item.github != null) {
-
       studentContact += `<a href=${item.github} target="_blank">
       <i class="fab fa-github fa-2x contactIcons"></i>
       </a>`
     }
     //if student doesn't have a linkedin site then don't display the icon
     if (item.linkedIn != null) {
-
       studentContact += `<a href=${item.linkedIn} target="_blank">
       <i class="fab fa-linkedin fa-2x contactIcons"></i>
       </a>`
     }
     //if student doesn't have an email then don't display the icon
     if (item.email != null) {
-
       studentContact += `<a href=mailto:${item.email}>
               <i class="fas fa-envelope fa-2x contactIcons"></i>
             </a>`
     }
     studentContact += `</div>`
-
+    //ends the top div and starts building the student info
     let studentInfo = `<div class="col-md-3 cohortMems">
           <img class="card-img-top" src="images/classmates/professional/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
           <div class="card-body">
-            <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
+            <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>
+            <div class="bio-button-container">`
     //if student didn't provide a reelthemin quote then nothing is displayed
     if (item.reelThemIn != null) {
+      studentInfo += `<div>`
       studentInfo += `<p class="card-text">${item.reelThemIn}</p>`
+      studentInfo += `</div>`
     }
+    studentInfo += `<div class="buttons">`
     studentInfo += studentContact
 
     //if a student doesn't have a bio, then the learn more button doesn't appear and a modal isn't created
     if (item.bio != null) {
-
+      
       studentInfo += `
-            <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
-           Learn More!
-          </button></center>
+                <center>
+                  <button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
+                    Learn More!
+                  </button>
+                </center>
+              </div>
+            </div>
           </div>
         </div>`
       //modal info
@@ -84,8 +88,9 @@ function cohortMembers(list) {
 
 
       studentInfo += `
-      
+    <p>
     ${item.bio}
+    </p>
     </div>
     <center>
     <button class="backButton btn btn-outline-primary title-font bottom" aria-label="Close"><a href="/data/resumes/${item.resume}" download>Download Resume</a></button>
