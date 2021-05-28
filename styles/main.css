@@ -2,6 +2,7 @@ p {
   font-family: "Barlow", sans-serif;
 }
 
+<<<<<<< HEAD
 html,
 body {
   max-width: 100%;
@@ -9,6 +10,13 @@ body {
   background: url("../images/background.jpg") fixed no-repeat;
   background-size: 100%;
   background-color: black;
+=======
+html, body {
+    max-width: 100%;
+    /* overflow-x: hidden; */
+    background: url("../images/normal2.png") fixed no-repeat;
+    background-size: 100%;
+>>>>>>> 80c3cca5401875245643f748f88b18fdce014f9f
 }
 
 blockquote {
@@ -32,6 +40,7 @@ blockquote {
   margin-right: 2em;
 }
 
+<<<<<<< HEAD
 #cohort22 {
   display: inline-block;
   color: #238193;
@@ -41,6 +50,18 @@ blockquote {
   box-shadow: 2px 2px 2px rgb(167, 166, 166);
   background-color: #238193 !important;
   color: lightgray;
+=======
+#cohort22{
+    display: inline-block;
+    color: rgb(231, 166, 24);
+}
+
+#jumbheader{
+    box-shadow: 2px 2px 2px rgb(167, 166, 166);
+    background-color: rgb(231, 166, 24)!important;
+    color: seashell;
+
+>>>>>>> 80c3cca5401875245643f748f88b18fdce014f9f
 }
 .header-text {
   margin: 0 auto;
@@ -86,6 +107,7 @@ main {
   text-transform: uppercase;
 }
 
+<<<<<<< HEAD
 .col-md-3.cohortMems {
   border: 1px solid lightgray;
   border-radius: 10px;
@@ -93,6 +115,15 @@ main {
   margin: 10px;
   margin-bottom: 25px;
   background: white;
+=======
+.col-md-3.cohortMems{
+    border: 1px solid rgb(233, 224, 218);
+    border-radius:10px;
+    box-shadow: 2px 2px 2px rgb(212, 199, 190);
+    margin: 10px;
+    margin-bottom: 25px;
+    background: white;
+>>>>>>> 80c3cca5401875245643f748f88b18fdce014f9f
 }
 
 .col-sm-2.technologies {
@@ -148,6 +179,7 @@ main {
   margin-bottom: 0.75rem;
 }
 
+<<<<<<< HEAD
 .contactIcons {
   color: #238193;
 }
@@ -159,6 +191,19 @@ main {
   background-color: lightgray !important;
   color: #238193;
 }
+=======
+  .contactIcons{
+      color: rgb(231, 166, 24);
+  }
+  .contactIcons:hover{
+      transform: scale(1.2);
+  }
+
+  .modal-header{
+    background-color: lightgray!important;
+    color: rgb(231, 166, 24);
+  }
+>>>>>>> 80c3cca5401875245643f748f88b18fdce014f9f
 
 .modal-body img {
   width: 50%;
@@ -171,11 +216,19 @@ main {
   margin-bottom: 1.5rem;
 }
 
+<<<<<<< HEAD
 .navbar.navbar-light.bg-light.footer {
   margin-top: 10px;
   font-size: 1em;
   background-color: #238193 !important;
   color: white;
+=======
+.navbar.navbar-light.bg-light.footer{
+    margin-top:10px;
+    font-size: 1em;
+    background-color:rgb(231, 166, 24)!important;
+    color: white;
+>>>>>>> 80c3cca5401875245643f748f88b18fdce014f9f
 }
 
 #demo-date {
@@ -183,12 +236,17 @@ main {
 }
 
 #demo-date a {
+<<<<<<< HEAD
   color: #238193 !important;
+=======
+    color: rgb(231, 166, 24)!important;
+>>>>>>> 80c3cca5401875245643f748f88b18fdce014f9f
 }
 
 button {
   cursor: pointer;
 }
+<<<<<<< HEAD
 .btn-outline-primary {
   color: #238193 !important;
   border-color: #238193 !important;
@@ -197,6 +255,16 @@ button {
 .btn-outline-primary:hover {
   color: white !important;
   background-color: #238193 !important;
+=======
+.btn-outline-primary{
+    color: rgb(231, 166, 24)!important;
+    border-color: rgb(231, 166, 24)!important;
+}
+
+.btn-outline-primary:hover{
+    color: white!important;
+    background-color: rgb(231, 166, 24)!important;
+>>>>>>> 80c3cca5401875245643f748f88b18fdce014f9f
 }
 
 /* adjusts size of contact icons depending on size of card */

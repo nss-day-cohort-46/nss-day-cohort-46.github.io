@@ -61,7 +61,7 @@ function cohortMembers(list) {
       studentInfo += `
                 <center>
                   <button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
-                    Learn More!
+                    About ${item.firstName}
                   </button>
                 </center>
               </div>
