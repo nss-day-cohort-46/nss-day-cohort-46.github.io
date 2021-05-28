@@ -15,7 +15,7 @@
         {
             "id": 3,
             "name": "SQLite",
-            "image": "SQLite.png",
+            "image": "sqlite.png",
             "link": "https://www.sqlite.org/index.html"
         },
         {
