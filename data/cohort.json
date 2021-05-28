@@ -44,34 +44,6 @@
         },
         {
             "id": 4,
-            "firstName": "Dylan",
-            "lastName": "Morris",
-            "reelThemIn": "<p>When she asks, \"What is your idea of the perfect date?\", don't say \"YYYY-MM-DD\".</p>",
-            "bio": "<p>Lifelong piano player turns software developer. I have a passion for creative thinking, working in teams, and keeping things efficient! I quickly discovered a love for software development as I noticed its unique combination of mathematics and art. I am excited to see where my career in software development takes me!</p>",
-            "github": "https://github.com/morriscodez",
-            "linkedIn": "https://www.linkedin.com/in/dylan--morris/",
-            "portfolio": "https://morriscodez.github.io/personal-site/",
-            "email": "dylanrobertmorris@gmail.com",
-            "proImg": "Dylan Morris - Dylan Morris Official.jpg",
-            "funImg": "pokedylan - Dylan Morris Official.jpeg",
-            "resume": "Resume_DylanMorris - Dylan Morris Official.pdf"
-        },
-        {
-            "id": 5,
-            "firstName": "Cheo",
-            "lastName": "Roman",
-            "reelThemIn": "<p>It's creepy when your code works flawlessly the first time</p>",
-            "bio": "<p>Hi My name is Cheo. I'm a Nashville-based developer. I have been programming as a hobby on/off for years. I started with C++ in highschool and dabbled with a bit of other languages since then. In colelge, I used Prolog for a computational linguistics course where we drove robotic cars using our voice. Due to health reasons after graduating, I could no longer do Peace Corp on medical grounds, so I continued learning at a local community college and state school. Doing so taught me to plan, build, and automate tools which eased my workload in the transportation/logistics/freight shipping industries. It was not until I was laid off in December of 20200, that I decided to return from my hobby hiatus and enrolled at the Nashville Software School. NSS reinforced my skillset and taught me to use the latest technologies. In my free time I like to catch up on (computational) linguistics, explore, and volunteer, particularly with the homeless. I look forward to collaborating with you on future endeavors.</p>",
-            "github": "https://github.com/CheoR",
-            "linkedIn": "https://www.linkedin.com/in/cheo-roman/",
-            "portfolio": "https://cheor.github.io/portfolio",
-            "email": "cheo.roman@gmail.com",
-            "proImg": "Cheo_Roman - Cheo Roman.png",
-            "funImg": "pokecheo - Cheo Roman.jpg",
-            "resume": "Cheo Roman 1 - Cheo Roman.pdf"
-        },
-        {
-            "id": 6,
             "firstName": "Logan",
             "lastName": "Webb",
             "reelThemIn": "<p>Deleted code is debugged code. - Jeff Sickel</p>",
@@ -85,7 +57,7 @@
             "resume": "Logan-Webb-2 (2) - Logan Webb.pdf"
         },
         {
-            "id": 7,
+            "id": 5,
             "firstName": "Eric",
             "lastName": "Berringer",
             "reelThemIn": "<p>\"If you're not moving, you're not going anywhere.\"</p>",
@@ -97,6 +69,34 @@
             "proImg": "EricPic - Eric Berringer.jpeg",
             "funImg": "EricBerringerPokemonCard - Eric Berringer.jpeg",
             "resume": "Eric Berringer Resume - Eric Berringer.pdf"
+        },
+        {
+            "id": 6,
+            "firstName": "Cheo",
+            "lastName": "Roman",
+            "reelThemIn": "<p>It's creepy when your code works flawlessly the first time</p>",
+            "bio": "<p>Hi My name is Cheo. I'm a Nashville-based developer. I have been programming as a hobby on/off for years. I started with C++ in highschool and dabbled with a bit of other languages since then. In colelge, I used Prolog for a computational linguistics course where we drove robotic cars using our voice. Due to health reasons after graduating, I could no longer do Peace Corp on medical grounds, so I continued learning at a local community college and state school. Doing so taught me to plan, build, and automate tools which eased my workload in the transportation/logistics/freight shipping industries. It was not until I was laid off in December of 20200, that I decided to return from my hobby hiatus and enrolled at the Nashville Software School. NSS reinforced my skillset and taught me to use the latest technologies. In my free time I like to catch up on (computational) linguistics, explore, and volunteer, particularly with the homeless. I look forward to collaborating with you on future endeavors.</p>",
+            "github": "https://github.com/CheoR",
+            "linkedIn": "https://www.linkedin.com/in/cheo-roman/",
+            "portfolio": "https://cheor.github.io/portfolio",
+            "email": "cheo.roman@gmail.com",
+            "proImg": "Cheo_Roman - Cheo Roman.png",
+            "funImg": "pokecheo - Cheo Roman.jpg",
+            "resume": "Cheo Roman 1 - Cheo Roman.pdf"
+        },
+        {
+            "id": 7,
+            "firstName": "Dylan",
+            "lastName": "Morris",
+            "reelThemIn": "<p>When she asks, \"What is your idea of the perfect date?\", don't say \"YYYY-MM-DD\".</p>",
+            "bio": "<p>Lifelong piano player turns software developer. I have a passion for creative thinking, working in teams, and keeping things efficient! I quickly discovered a love for software development as I noticed its unique combination of mathematics and art. I am excited to see where my career in software development takes me!</p>",
+            "github": "https://github.com/morriscodez",
+            "linkedIn": "https://www.linkedin.com/in/dylan--morris/",
+            "portfolio": "https://morriscodez.github.io/personal-site/",
+            "email": "dylanrobertmorris@gmail.com",
+            "proImg": "Dylan Morris - Dylan Morris Official.jpg",
+            "funImg": "pokedylan - Dylan Morris Official.jpeg",
+            "resume": "Resume_DylanMorris - Dylan Morris Official.pdf"
         },
         {
             "id": 8,
@@ -128,17 +128,17 @@
         },
         {
             "id": 10,
-            "firstName": "Phillip",
-            "lastName": "Phan",
-            "reelThemIn": "<p>[\"hip\", \"hip\"]</p>",
-            "bio": "<p>My passion lies in creating solutions based on personal and business needs through data analysis, developmental research, and a constant strive to learn more. I enjoy the challenges of developing novel ideas into real-world applications. My colleagues would describe me as a driven, resourceful individual with a positive, proactive attitude when faced with adversity. I have strong technical skills and an academic background in software development as well as in Biochemistry and Cellular and Molecular Biology.</p>",
-            "github": "https://github.com/phillipphan",
-            "linkedIn": "https://www.linkedin.com/in/p-phan/",
-            "portfolio": "https://phillipphan.netlify.app/",
-            "email": "itsphillipphan@gmail.com",
-            "proImg": "headshot - Phillip Phan.JPG",
-            "funImg": "headshot - Phillip Phan.JPG",
-            "resume": "Phillip Phan Resume - Phillip Phan.pdf"
+            "firstName": "Madison",
+            "lastName": "Powell",
+            "reelThemIn": "<p>\"Innovation comes out of great human ingenuity and very personal passions.\" - Megan Smith</p>",
+            "bio": "<p> </p>",
+            "github": "https://github.com/powellmad",
+            "linkedIn": "https://www.linkedin.com/in/madisonjpowell/",
+            "portfolio": "https://madison-powell.netlify.app",
+            "email": "madsnpowell@gmail.com",
+            "proImg": "madison-powell.png",
+            "funImg": "madison-pokemon.jpeg",
+            "resume": "madison-powell-resume.pdf"
         },
         {
             "id": 11,
@@ -156,17 +156,17 @@
         },
         {
             "id": 12,
-            "firstName": "Stacey",
-            "lastName": "Littrell",
-            "reelThemIn": "<p>\"Do you ever find python constricting?\"</p>",
-            "bio": "<p>Starting my career in education has inspired a lifelong love for learning. The urge to challenge myself and explore new ideas led me to an exciting learning opportunity at Nashville Software School, and soon into my first junior development role .  I am looking for an exciting opportunity to feed my curiosity and expand my coding knowledge. My natural creativity and ability to solve complex problems has allowed for a smooth transition from teaching to technology.</p>",
-            "github": "https://github.com/SLLittrell",
-            "linkedIn": "https://www.linkedin.com/in/stacey-littrell/",
-            "portfolio": "https://sllittrell.github.io/",
-            "email": "stacey.littrell@gmail.com",
-            "proImg": "StaceyPhoto - stacey littrell.jpg",
-            "funImg": "PokemonCard - stacey littrell.jpg",
-            "resume": "Stacey Littrell Resume - stacey littrell.pdf"
+            "firstName": "Caleb",
+            "lastName": "James",
+            "reelThemIn": "<p>A person needs the humility to know that preparation is necessary & the confidence to know that success is possible. </p>",
+            "bio": "<p>The first code I wrote was a number guessing game for a TI-83 calculator in 9th grade. The manual showed me how to access a random number generator and the rest was very basic commands I learned by reading through the code of other calculator applications I had. <br><br> Since then I have incorporated coding into my work and life every chance I get to boost my productivity and reduce redundant activity. I have always enjoyed and had an interest in coding but it wasn’t until I was in an accident and in bed for 8 weeks that I learned I really loved building things with code and wanted to take my abilities to the next level. Nashville Software School has provided me with that opportunity in an incredible way. I have learned more in the six months I have attended that I ever thought I would and it has sparked a deep love for the challenge of learning to code.</p>",
+            "github": "https://github.com/calebsjames",
+            "linkedIn": "https://www.linkedin.com/in/calebsjames/",
+            "portfolio": "http://www.calebsjames.com",
+            "email": "calebsjames@gmail.com",
+            "proImg": "pic01 Caleb James - Caleb James.jpg",
+            "funImg": "CalebFun.jpeg",
+            "resume": "Caleb James Resume - Caleb James.pdf"
         },
         {
             "id": 13,
@@ -198,6 +198,20 @@
         },
         {
             "id": 15,
+            "firstName": "Stacey",
+            "lastName": "Littrell",
+            "reelThemIn": "<p>\"Do you ever find python constricting?\"</p>",
+            "bio": "<p>Starting my career in education has inspired a lifelong love for learning. The urge to challenge myself and explore new ideas led me to an exciting learning opportunity at Nashville Software School, and soon into my first junior development role .  I am looking for an exciting opportunity to feed my curiosity and expand my coding knowledge. My natural creativity and ability to solve complex problems has allowed for a smooth transition from teaching to technology.</p>",
+            "github": "https://github.com/SLLittrell",
+            "linkedIn": "https://www.linkedin.com/in/stacey-littrell/",
+            "portfolio": "https://sllittrell.github.io/",
+            "email": "stacey.littrell@gmail.com",
+            "proImg": "StaceyPhoto - stacey littrell.jpg",
+            "funImg": "PokemonCard - stacey littrell.jpg",
+            "resume": "Stacey Littrell Resume - stacey littrell.pdf"
+        },
+        {
+            "id": 16,
             "firstName": "Nathan",
             "lastName": "Hamilton",
             "reelThemIn": "<p>Do not underestimate the aggregation of marginal gains!</p>",
@@ -211,21 +225,21 @@
             "resume": "Nate Hamilton 2021.v5 - Nathan Hamilton.pdf"
         },
         {
-            "id": 16,
-            "firstName": "Caleb",
-            "lastName": "James",
-            "reelThemIn": "<p>A person needs the humility to know that preparation is necessary & the confidence to know that success is possible. </p>",
-            "bio": "<p>The first code I wrote was a number guessing game for a TI-83 calculator in 9th grade. The manual showed me how to access a random number generator and the rest was very basic commands I learned by reading through the code of other calculator applications I had. <br><br> Since then I have incorporated coding into my work and life every chance I get to boost my productivity and reduce redundant activity. I have always enjoyed and had an interest in coding but it wasn’t until I was in an accident and in bed for 8 weeks that I learned I really loved building things with code and wanted to take my abilities to the next level. Nashville Software School has provided me with that opportunity in an incredible way. I have learned more in the six months I have attended that I ever thought I would and it has sparked a deep love for the challenge of learning to code.</p>",
-            "github": "https://github.com/calebsjames",
-            "linkedIn": "https://www.linkedin.com/in/calebsjames/",
-            "portfolio": "http://www.calebsjames.com",
-            "email": "calebsjames@gmail.com",
-            "proImg": "pic01 Caleb James - Caleb James.jpg",
-            "funImg": "CalebFun.jpeg",
-            "resume": "Caleb James Resume - Caleb James.pdf"
+            "id": 17,
+            "firstName": "Phillip",
+            "lastName": "Phan",
+            "reelThemIn": "<p>[\"hip\", \"hip\"]</p>",
+            "bio": "<p>My passion lies in creating solutions based on personal and business needs through data analysis, developmental research, and a constant strive to learn more. I enjoy the challenges of developing novel ideas into real-world applications. My colleagues would describe me as a driven, resourceful individual with a positive, proactive attitude when faced with adversity. I have strong technical skills and an academic background in software development as well as in Biochemistry and Cellular and Molecular Biology.</p>",
+            "github": "https://github.com/phillipphan",
+            "linkedIn": "https://www.linkedin.com/in/p-phan/",
+            "portfolio": "https://phillipphan.netlify.app/",
+            "email": "itsphillipphan@gmail.com",
+            "proImg": "headshot - Phillip Phan.JPG",
+            "funImg": "headshot - Phillip Phan.JPG",
+            "resume": "Phillip Phan Resume - Phillip Phan.pdf"
         },
         {
-            "id": 17,
+            "id": 18,
             "firstName": "Blu",
             "lastName": "Sanders",
             "reelThemIn": "<p>Serve yourself by serving others</p>",
@@ -239,21 +253,35 @@
             "resume": "Blu Sanders Resume 512 699 4928 - Blu Sanders.pdf"
         },
         {
-            "id": 18,
+            "id": 19,
             "firstName": "Emily",
             "lastName": "Centko",
             "reelThemIn": "<p>\"Machines need love too\" - The Terminator</p>",
             "bio": "<p>With an educational background in English, language, and writing, upon moving to Nashville, I began working in customer experience for e-commerce and tech companies. I developed an interest in the user experience surrounding technology—it allowed me to bolster my problem-solving and communication skills, and eventually, led me to coding. I took part in a 3-week jumpstart course at Nashville Software School to test the waters, and I immediately dove into the opportunity to enroll in their 6-month full-stack bootcamp. My career goal is to help build a product that makes a positive impact. I’m eager to learn, not afraid to ask questions, and I'm excited to find a role that enables me to constantly learn, grow, and creatively tackle problems. I've been on the search for a career I love, and I felt right at home in the world of software development.</p>",
             "github": "https://github.com/emilycentko",
             "linkedIn": "https://www.linkedin.com/in/emily-centko/",
-            "portfolio": null,
+            "portfolio": "https://emilycentko.github.io/",
             "email": "emily.centko@gmail.com",
             "proImg": "profpic - Emily Centko.png",
             "funImg": "pokemon card emily - Emily Centko.jpeg",
             "resume": "Emily Centko Resume (no contact info) - Emily Centko.pdf"
         },
         {
-            "id": 19,
+            "id": 20,
+            "firstName": "Nick",
+            "lastName": "Carver",
+            "reelThemIn": "<p>!false<br>(It’s funny because it’s true.)</p>",
+            "bio": "<p>I have a better understanding of my purpose today. I grew up in Kentucky and went to school at Western Kentucky University where I received my B.A. in Mechanical Engineering. I then entered the realm of automotive manufacturing. During my three years in this role, I managed manufacturing line builds, implemented process improvement solutions, and fulfilled customer requests on teams of two to seven members. These years were invaluable in my understanding of myself, business practices, and efficient time management. Coming to understand myself is foundational to how you are able to see my site today. The mission, the \"why\", is now driving my actions.<br>I found a lot of satisfaction in programming with simple flow-chart logic through a STEM program In high school. I was, however, on a course that would take me into mechanical process and design engineering. After a few years doing fieldwork and finding myself on a computer connected to a PLC, sensor, or a robot controller, I knew programming was truly what I enjoyed doing. I saved and applied to Nashville Software School and have not regretted it a single moment. I hope to share my enthusiasm of the world of technology with whoever is interested and, in turn, build great applications for people who need them.</p>",
+            "github": "https://github.com/nch66862",
+            "linkedIn": "https://www.linkedin.com/in/nick-carver/",
+            "portfolio": "nick-carver.dev",
+            "email": "nicholascarver2@outlook.com",
+            "proImg": "NickCarverPro.jpg",
+            "funImg": "PokeNick.jpg",
+            "resume": "NickCarverResume.pdf"
+        },
+        {
+            "id": 21,
             "firstName": "DeVonna (Tracy)",
             "lastName": "Depp",
             "reelThemIn": "<p>\"You can't steal second base and keep your foot on first\"</p>",
@@ -267,7 +295,7 @@
             "resume": "D. Tracy Depp Resume V3 - Tracy Depp.pdf"
         },
         {
-            "id": 20,
+            "id": 22,
             "firstName": "Andrea",
             "lastName": "Mays",
             "reelThemIn": "<p>\"Tell me and I forget. Teach me and I remember. Involve me and I learn.\" -Benjamin Franklin</p>",
@@ -281,7 +309,7 @@
             "resume": "Drea Nichole V3 - Andrea Nichole.pdf"
         },
         {
-            "id": 21,
+            "id": 23,
             "firstName": "Harlin",
             "lastName": "Sanchez",
             "reelThemIn": "<p>\"Mere data makes a man. A and C and T and G. The alphabet of you. All from four symbols.\" -Niander Wallace, Blade Runner 2049</p>",
@@ -295,18 +323,18 @@
             "resume": "Resume 3 - Harlin Sanchez.pdf"
         },
         {
-            "id": 22,
-            "firstName": "Nick",
-            "lastName": "Carver",
-            "reelThemIn": "<p>!false<br>(It’s funny because it’s true.)</p>",
-            "bio": "<p>I have a better understanding of my purpose today. I grew up in Kentucky and went to school at Western Kentucky University where I received my B.A. in Mechanical Engineering. I then entered the realm of automotive manufacturing. During my three years in this role, I managed manufacturing line builds, implemented process improvement solutions, and fulfilled customer requests on teams of two to seven members. These years were invaluable in my understanding of myself, business practices, and efficient time management. Coming to understand myself is foundational to how you are able to see my site today. The mission, the \"why\", is now driving my actions.<br>I found a lot of satisfaction in programming with simple flow-chart logic through a STEM program In high school. I was, however, on a course that would take me into mechanical process and design engineering. After a few years doing fieldwork and finding myself on a computer connected to a PLC, sensor, or a robot controller, I knew programming was truly what I enjoyed doing. I saved and applied to Nashville Software School and have not regretted it a single moment. I hope to share my enthusiasm of the world of technology with whoever is interested and, in turn, build great applications for people who need them.</p>",
-            "github": "https://github.com/nch66862",
-            "linkedIn": "https://www.linkedin.com/in/nick-carver/",
-            "portfolio": "nick-carver.dev",
-            "email": "nicholascarver2@outlook.com",
-            "proImg": "NickCarverPro.jpg",
-            "funImg": "PokeNick.jpg",
-            "resume": "NickCarverResume.pdf"
+            "id": 24,
+            "firstName": "Brittney",
+            "lastName": "Potts",
+            "reelThemIn": "The {code} to my heart is coffee</p>",
+            "bio": "<p>Prior to beginning my journey in software development, I was a General Manager in the restaurant industry. Being the GM taught me skills such as the ability to work in a high stress environment, working in a team environment, and customer service. While I enjoyed my job, it was not my passion. After talking to a friend about what I did enjoy about my job, he pointed me in the direction of software development. Ever since I started on the road to becoming a software developer, I have found a passion for creating new apps, solving problems, and watching an app all come together! I love that it allows me to use my problem solving mind set, while also challenging me to keep learning. I am looking forward to continue growing my knowledge in the tech field!</p>",
+            "github": "https://github.com/bpotts11",
+            "linkedIn": "https://www.linkedin.com/in/brittney-potts/",
+            "portfolio": "https://bpotts11.github.io/brittneypotts/ ",
+            "email": "brittneympotts@gmail.com",
+            "proImg": "BrittP.JPG",
+            "funImg": "BrittneyPokemonCard.jpeg",
+            "resume": "BrittneyPotts.pdf"
         }
     ]
 }

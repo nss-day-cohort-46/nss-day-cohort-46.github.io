@@ -5,7 +5,7 @@ p {
 html,
 body {
   max-width: 100%;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
   background: url("../images/background.jpg") fixed no-repeat;
   background-size: 100%;
   background-color: black;
@@ -126,6 +126,8 @@ main {
 .card-img-top {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  height: 380px;
+  object-fit: cover;
 }
 
 .col,
@@ -216,7 +218,7 @@ button {
     } */
   .jumbotron.jumbotron-fluid img {
     background: white;
-    margin-top: 30px;
+    /* margin-top:30px; */
   }
   .jumbotron.jumbotron-fluid.sm-width {
     width: 100%;
@@ -246,4 +248,18 @@ button {
   .navbar-brand img {
     padding-right: none;
   }
+}
+
+.carousel-inner {
+  overflow: visible;
+}
+
+.carousel-item-left {
+  overflow: visible;
+  padding-top: 0.1px;
+}
+
+.carousel-item-next {
+  overflow: visible;
+  padding-top: 0.1px;
 }
