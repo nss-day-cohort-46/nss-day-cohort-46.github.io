@@ -260,6 +260,27 @@ button {
 }
 
 .carousel-item-next {
+<<<<<<< HEAD
   overflow: visible;
   padding-top: 0.1px;
 }
+=======
+    overflow: visible;
+    padding-top: 0.1px;
+}
+
+.bio-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 236px;
+}
+
+.downloadResumeButton {
+    color: #0e606e;
+}
+
+.indent-text {
+    text-indent: 30px;
+}
+>>>>>>> 32e93d370e7009034f36d9e1b292eedd0581dd2d
