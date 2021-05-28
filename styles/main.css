@@ -4,7 +4,7 @@ p {
 
 html, body {
     max-width: 100%;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     background: url("../images/normal2.png") fixed no-repeat;
     background-size: 100%;
 }
@@ -228,7 +228,7 @@ button{
     } */
     .jumbotron.jumbotron-fluid img{
         background: white;
-        margin-top:30px;
+        /* margin-top:30px; */
        }
        .jumbotron.jumbotron-fluid.sm-width{
         width: 100%;
@@ -259,4 +259,33 @@ button{
         padding-right: none;
       }
 
+}
+
+.carousel-inner {
+    overflow: visible;
+}
+
+.carousel-item-left {
+    overflow: visible;
+    padding-top: 0.1px;
+}
+
+.carousel-item-next {
+    overflow: visible;
+    padding-top: 0.1px;
+}
+
+.bio-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 236px;
+}
+
+.downloadResumeButton {
+    color: #0e606e;
+}
+
+.indent-text {
+    text-indent: 30px;
 }
