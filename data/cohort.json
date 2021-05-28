@@ -335,6 +335,20 @@
             "proImg": "BrittP.JPG",
             "funImg": "BrittneyPokemonCard.jpeg",
             "resume": "BrittneyPotts.pdf"
+        },
+        {
+            "id": 25,
+            "firstName": "Trent",
+            "lastName": "Sisson",
+            "reelThemIn": "I’m an early bird and a night owl. So I’m wise and have worms.",
+            "bio": "My time at NSS has been extremely challanging and rewarding. Now that I have learned how to code I realise that coding is not just a job for me, it is a passion and hobby that I really enjoy. Fishing is another hobby that I am very passionate about. I love getting out in nature and enjoying the all the world has to offer.",
+            "github": "https://github.com/TrentSisson",
+            "linkedIn": "https://www.linkedin.com/in/trentsisson/",
+            "portfolio": null,
+            "email": "trent.c.sisson09@gmail.com",
+            "proImg": "Trents prof pic.jpg",
+            "funImg": "trentpokemon.jpg",
+            "resume": "Trent's Resume V2.pdf"
         }
     ]
 }
