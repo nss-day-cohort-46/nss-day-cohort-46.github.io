@@ -88,12 +88,12 @@ function cohortMembers(list) {
 
 
       studentInfo += `
-    <p>
+    <p class="indent-text">
     ${item.bio}
     </p>
     </div>
     <center>
-    <button class="backButton btn btn-outline-primary title-font bottom" aria-label="Close"><a href="/data/resumes/${item.resume}" download>Download Resume</a></button>
+    <button class="backButton btn btn-outline-primary title-font bottom" aria-label="Close"><a class=downloadResumeButton href="/data/resumes/${item.resume}" download>Download Resume</a></button>
     <button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">Back</button>
     </center>
             
