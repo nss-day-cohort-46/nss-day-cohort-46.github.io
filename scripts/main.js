@@ -57,7 +57,7 @@ function cohortMembers(list) {
 
     //if a student doesn't have a bio, then the learn more button doesn't appear and a modal isn't created
     if (item.bio != null) {
-      
+
       studentInfo += `
                 <center>
                   <button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
