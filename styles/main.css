@@ -267,3 +267,18 @@ button{
     overflow: visible;
     padding-top: 0.1px;
 }
+
+.bio-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 236px;
+}
+
+.downloadResumeButton {
+    color: #0e606e;
+}
+
+.indent-text {
+    text-indent: 30px;
+}
