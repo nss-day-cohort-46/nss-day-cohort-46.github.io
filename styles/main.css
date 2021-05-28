@@ -5,9 +5,9 @@ p {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    background: url("../images/normal.png") fixed no-repeat;
     background-size: 100%;
-    background-color: black;
+    background-image: blur(8px);
 }
 
 blockquote{
