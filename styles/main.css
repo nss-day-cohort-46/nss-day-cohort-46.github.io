@@ -47,7 +47,6 @@ blockquote{
     font-weight: bold;
     height: 50px;
     color: white;
-
 }
 
 .title-font {
@@ -55,7 +54,7 @@ blockquote{
     vertical-align: middle;
 }
 
-.logo{
+.logo {
     height: 50px;
 }
 
@@ -89,7 +88,6 @@ main {
 
 /* Card Styling */
 .col-md-3, .cohortMems{
-    border: 1px solid rgb(233, 224, 218);
     border-radius:10px;
     box-shadow: 2px 2px 2px rgb(212, 199, 190);
     margin: 15px;
