@@ -2,20 +2,12 @@ p {
   font-family: "Barlow", sans-serif;
 }
 
-<<<<<<< HEAD
-html, body {
-    max-width: 100%;
-    /* overflow-x: hidden; */
-    background: url("../images/normal2.png") fixed;
-    background-size: 100%;
-=======
 html,
 body {
   max-width: 100%;
   /* overflow-x: hidden; */
   background: url("../images/normal2.png") fixed repeat;
   background-size: 100%;
->>>>>>> main
 }
 
 blockquote {
@@ -44,7 +36,6 @@ blockquote {
   color: rgb(231, 166, 24);
 }
 
-<<<<<<< HEAD
 #jumbheader{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
     background-color: rgb(231, 166, 24)!important;
@@ -57,19 +48,6 @@ blockquote {
     font-weight: bold;
     height: 50px;
     color: white;
-=======
-#jumbheader {
-  box-shadow: 2px 2px 2px rgb(167, 166, 166);
-  background-color: rgb(231, 166, 24) !important;
-  color: seashell;
-}
-.header-text {
-  margin: 0 auto;
-  padding-top: 10px;
-  font-weight: bold;
-  height: 50px;
-  color: white;
->>>>>>> main
 }
 
 .title-font {
@@ -78,7 +56,6 @@ blockquote {
 }
 
 .logo {
-<<<<<<< HEAD
     height: 50px;
 }
 
@@ -102,30 +79,6 @@ main {
 
 .row {
     justify-content: center;
-=======
-  height: 50px;
-}
-
-.jumbotron.jumbotron-fluid {
-  background: none;
-}
-.jumbotron.jumbotron-fluid img {
-  background: none;
-  width: 100%;
-  margin-top: -80px;
-}
-
-main {
-  margin-bottom: 20px;
-  margin-top: -30px;
-  width: 100%;
-  overflow-y: hidden;
-  overflow-x: hidden;
-}
-
-.row {
-  justify-content: center;
->>>>>>> main
 }
 
 .navbar-collapse {
@@ -134,7 +87,6 @@ main {
   text-transform: uppercase;
 }
 
-<<<<<<< HEAD
 /* Card Styling */
 .col-md-3, .cohortMems{
     border-radius:10px;
@@ -142,15 +94,6 @@ main {
     margin: 15px;
     margin-bottom: 25px;
     background: white;
-=======
-.col-md-3.cohortMems {
-  border: 1px solid rgb(233, 224, 218);
-  border-radius: 10px;
-  box-shadow: 2px 2px 2px rgb(212, 199, 190);
-  margin: 10px;
-  margin-bottom: 25px;
-  background: white;
->>>>>>> main
 }
 
 .col-sm-2.technologies {
@@ -159,7 +102,6 @@ main {
   box-shadow: none;
 }
 
-<<<<<<< HEAD
 .technos, .words {
     margin-top: -55px;
     background: white;
@@ -179,19 +121,6 @@ main {
 
 .about-cohort {
     text-align: center;
-=======
-.technos,
-.words {
-  margin-top: -55px;
-  background: white;
-  padding: 20px;
-  border-radius: 20px;
-}
-
-.techs {
-  width: 70px;
-  margin: 20px 0px;
->>>>>>> main
 }
 
 .words {
@@ -235,17 +164,10 @@ main {
   transform: scale(1.2);
 }
 
-<<<<<<< HEAD
   .modal-header{
     background-color: rgb(231, 166, 24)!important;
     color: black;
   }
-=======
-.modal-header {
-  background-color: lightgray !important;
-  color: rgb(231, 166, 24);
-}
->>>>>>> main
 
 .modal-body img {
   width: 50%;
@@ -359,11 +281,7 @@ button {
 }
 
 .downloadResumeButton {
-<<<<<<< HEAD
     color: rgb(231, 166, 24);
-=======
-  color: #0e606e;
->>>>>>> main
 }
 
 .indent-text {
