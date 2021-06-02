@@ -1,20 +1,6 @@
 {
     "cohort": [
         {
-            "id": 1,
-            "firstName": "Calvin",
-            "lastName": "Courter",
-            "reelThemIn": "The floor is not my son, but I will raise it",
-            "bio": "NSS is amazing , btw my bio isnt finished",
-            "github": "https://github.com/Ccourter11",
-            "linkedIn": "https://www.linkedin.com/in/calvin-courter/",
-            "portfolio": null,
-            "email": "Courtercalvin@gmail.com",
-            "proImg": "IMG_0210 - Calvin Courter.jpg",
-            "funImg": "PokemonCalvinCouter.jpg",
-            "resume": "resume2 (2) - Calvin Courter.pdf"
-        },
-        {
             "id": 2,
             "firstName": "Alex",
             "lastName": "Prieu",
@@ -391,6 +377,20 @@
             "proImg": "sam_campbell_selfie.jpeg",
             "funImg": "pokemoncard_sam.png",
             "resume": "Samantha_Campbell_Resume.pdf"
+        },
+        {
+            "id": 1,
+            "firstName": "Calvin",
+            "lastName": "Courter",
+            "reelThemIn": "The floor is not my son, but I will raise it",
+            "bio": "NSS is amazing , btw my bio isnt finished",
+            "github": "https://github.com/Ccourter11",
+            "linkedIn": "https://www.linkedin.com/in/calvin-courter/",
+            "portfolio": null,
+            "email": "Courtercalvin@gmail.com",
+            "proImg": "IMG_0210 - Calvin Courter.jpg",
+            "funImg": "PokemonCalvinCouter.jpg",
+            "resume": "resume2 (2) - Calvin Courter.pdf"
         }
     ]
 }
