@@ -87,13 +87,13 @@ main {
   text-transform: uppercase;
 }
 
-.col-md-3.cohortMems {
-  border: 1px solid rgb(233, 224, 218);
-  border-radius: 10px;
-  box-shadow: 2px 2px 2px rgb(212, 199, 190);
-  margin: 10px;
-  margin-bottom: 25px;
-  background: white;
+/* Card Styling */
+.col-md-3, .cohortMems{
+    border-radius:10px;
+    box-shadow: 2px 2px 2px rgb(212, 199, 190);
+    margin: 15px;
+    margin-bottom: 25px;
+    background: white;
 }
 
 .col-sm-2.technologies {
@@ -170,8 +170,8 @@ main {
   }
 
 .modal-body img {
-  width: 50%;
-  height: 50%;
+  width: 70%;
+  height: 70%;
   box-shadow: 3px 3px 5px #cacaca;
   border-radius: 10px;
 }
