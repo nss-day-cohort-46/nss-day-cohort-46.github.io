@@ -36,17 +36,18 @@ blockquote {
   color: rgb(231, 166, 24);
 }
 
-#jumbheader {
-  box-shadow: 2px 2px 2px rgb(167, 166, 166);
-  background-color: rgb(231, 166, 24) !important;
-  color: seashell;
+#jumbheader{
+    box-shadow: 2px 2px 2px rgb(167, 166, 166);
+    background-color: rgb(231, 166, 24)!important;
+    color: seashell;
+    padding: 20px;
 }
-.header-text {
-  margin: 0 auto;
-  padding-top: 10px;
-  font-weight: bold;
-  height: 50px;
-  color: white;
+.header-text{
+    margin: 0 auto;
+    padding-top: 10px;
+    font-weight: bold;
+    height: 50px;
+    color: white;
 }
 
 .title-font {
@@ -55,28 +56,29 @@ blockquote {
 }
 
 .logo {
-  height: 50px;
+    height: 50px;
 }
 
-.jumbotron.jumbotron-fluid {
-  background: none;
+.jumbotron.jumbotron-fluid{
+    background: none;
 }
-.jumbotron.jumbotron-fluid img {
-  background: none;
-  width: 100%;
-  margin-top: -80px;
+
+.jumbotron.jumbotron-fluid img{
+    background: none;
+    width:100%;
+    margin-top: -80px;
 }
 
 main {
-  margin-bottom: 20px;
-  margin-top: -30px;
-  width: 100%;
-  overflow-y: hidden;
-  overflow-x: hidden;
+    margin-bottom: 20px;
+    margin-top: -30px;
+    width: 100%;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .row {
-  justify-content: center;
+    justify-content: center;
 }
 
 .navbar-collapse {
@@ -100,17 +102,25 @@ main {
   box-shadow: none;
 }
 
-.technos,
-.words {
-  margin-top: -55px;
-  background: white;
-  padding: 20px;
-  border-radius: 20px;
+.technos, .words {
+    margin-top: -55px;
+    background: white;
+    padding:20px;
+    border-radius: 20px;
 }
 
 .techs {
-  width: 70px;
-  margin: 20px 0px;
+    width: 70px;
+    margin: 20px 0px;
+}
+
+.aboutSection {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.about-cohort {
+    text-align: center;
 }
 
 .words {
@@ -154,10 +164,10 @@ main {
   transform: scale(1.2);
 }
 
-.modal-header {
-  background-color: lightgray !important;
-  color: rgb(231, 166, 24);
-}
+  .modal-header{
+    background-color: rgb(231, 166, 24)!important;
+    color: black;
+  }
 
 .modal-body img {
   width: 50%;
@@ -271,7 +281,7 @@ button {
 }
 
 .downloadResumeButton {
-  color: #0e606e;
+    color: rgb(231, 166, 24);
 }
 
 .indent-text {
